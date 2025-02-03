@@ -7,4 +7,4 @@
 - I’m currently learning Computer Science at ODU
 - I am currently learning programming languages like C++, Java, Kotlin, and Rust.
 - How to reach me: Dont.
-
+- No projects available at this time.
